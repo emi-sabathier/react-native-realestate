@@ -6,6 +6,12 @@
 .gradle
 /build
 
+# firebase
+firebaseConfig.js
+
+# api
+/api
+
 # Xcode
 #
 build/
